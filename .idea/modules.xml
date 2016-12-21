@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fivet.iml" filepath="$PROJECT_DIR$/.idea/modules/Fivet.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fivet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fivet_main.iml" group="Fivet" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fivet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fivet_test.iml" group="Fivet" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test.iml" filepath="$PROJECT_DIR$/src/test/test.iml" />
     </modules>
   </component>
 </project>

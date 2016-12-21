@@ -63,6 +63,14 @@ public class Persona extends BaseModel {
     private List<Paciente> pacientes;
 
     /**
+     * Listado de controles realizado por el veterinario
+     */
+    @Getter
+    @ManyToMany
+    @OrderBy("numeroControl")
+    private List<Control> controlesVeterinario;
+
+    /**
      * Tipo de rol
      */
     public enum Tipo {
